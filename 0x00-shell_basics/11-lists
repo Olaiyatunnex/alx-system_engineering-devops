@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alct $(pwd) .. /boot
+ls -alt $(pwd) .. /boot
