@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x  $(pwd)
+chmod -m 755 $(pwd)
